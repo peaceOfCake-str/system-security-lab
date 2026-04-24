@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSEDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A66801-AC2E-4785-8B2A-27EF8BDFA526}|DEFENSEDLL\\DEFENSEDLL.vcxproj|C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSEDLL\\DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A66801-AC2E-4785-8B2A-27EF8BDFA526}|DEFENSEDLL\\DEFENSEDLL.vcxproj|solutionrelative:DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2115227_\uAE40\uC815\uC724_defense_dll.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSEDLL\\DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp",
+              "RelativeDocumentMoniker": "DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSEDLL\\DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp",
+              "RelativeToolTip": "DEFENSEDLL\\2115227_\uAE40\uC815\uC724_defense_dll.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-17T04:30:45.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

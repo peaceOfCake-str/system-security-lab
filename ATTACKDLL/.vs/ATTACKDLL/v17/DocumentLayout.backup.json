@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\ATTACKDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDE3A9A-5D4C-44A8-AC97-F2B0F7EABDB3}|ATTACKDLL\\ATTACKDLL.vcxproj|C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\ATTACKDLL\\ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CDE3A9A-5D4C-44A8-AC97-F2B0F7EABDB3}|ATTACKDLL\\ATTACKDLL.vcxproj|solutionrelative:ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uAE40\uC815\uC724\\Desktop\\PEParser_PoC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PEParser_PoC.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC815\uC724\\Desktop\\PEParser_PoC.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\PEParser_PoC.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC815\uC724\\Desktop\\PEParser_PoC.cpp",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\PEParser_PoC.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-24T12:31:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2115227_\uAE40\uC815\uC724_attack_dll.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\ATTACKDLL\\ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp",
+              "RelativeDocumentMoniker": "ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\ATTACKDLL\\ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp",
+              "RelativeToolTip": "ATTACKDLL\\2115227_\uAE40\uC815\uC724_attack_dll.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T12:16:58.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

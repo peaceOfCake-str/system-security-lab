@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E80AA65-E051-4B5D-8F31-7F6A56AF43EC}|DEFENSE\\DEFENSE.vcxproj|C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\2115227_\uAE40\uC815\uC724_DEFENSE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E80AA65-E051-4B5D-8F31-7F6A56AF43EC}|DEFENSE\\DEFENSE.vcxproj|solutionrelative:DEFENSE\\2115227_\uAE40\uC815\uC724_DEFENSE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E80AA65-E051-4B5D-8F31-7F6A56AF43EC}|DEFENSE\\DEFENSE.vcxproj|C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\dbg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E80AA65-E051-4B5D-8F31-7F6A56AF43EC}|DEFENSE\\DEFENSE.vcxproj|solutionrelative:DEFENSE\\dbg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbg.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\dbg.cpp",
+              "RelativeDocumentMoniker": "DEFENSE\\dbg.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\dbg.cpp",
+              "RelativeToolTip": "DEFENSE\\dbg.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-16T11:51:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2115227_\uAE40\uC815\uC724_defense.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\2115227_\uAE40\uC815\uC724_defense.cpp",
+              "RelativeDocumentMoniker": "DEFENSE\\2115227_\uAE40\uC815\uC724_defense.cpp",
+              "ToolTip": "C:\\Users\\\uAE40\uC815\uC724\\source\\repos\\DEFENSE\\DEFENSE\\2115227_\uAE40\uC815\uC724_defense.cpp",
+              "RelativeToolTip": "DEFENSE\\2115227_\uAE40\uC815\uC724_defense.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T07:25:29.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
