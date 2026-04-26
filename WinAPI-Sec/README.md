@@ -1,4 +1,4 @@
-# System-Security-Lab 🛡️
+# WinAPI-Sec
 
 2025-2학기 시스템 보안 텀 프로젝트 저장소입니다. 
 Windows 운영체제 환경에서 `Cruehead CrackMe`를 타겟으로 공격(Red Team) 및 방어(Blue Team) 메커니즘을 구현하고 분석하였습니다.
